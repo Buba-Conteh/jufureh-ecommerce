@@ -23,7 +23,8 @@ export function TodaysForYou() {
       name: "UrbanFlex Men's Short Pants Collection",
       price: 162000,
       image: "./Jufureh/jfr-art.jpg",
-    },
+      isOnSale: true,
+    }
   ]
 
   return (

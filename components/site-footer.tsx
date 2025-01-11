@@ -46,7 +46,7 @@ export function SiteFooter() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
-          © 2023 BeliBeli.com. All rights reserved.
+          © 2025 jufureh All rights reserved.
         </div>
       </div>
     </footer>
